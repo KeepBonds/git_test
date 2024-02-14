@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     print('test branch');
     print("change to 1.0.2");
-    print("first modif dev branch");
+    print("modif dev branch");
     super.initState();
   }
 
