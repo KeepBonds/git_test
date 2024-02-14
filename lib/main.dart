@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
   void newfeat() {
-
+    print("new feat");
   }
 
   @override
