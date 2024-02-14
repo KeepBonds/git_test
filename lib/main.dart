@@ -69,7 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void newfeat2(){
-
+    print("new feat2");
   }
 
   void newFeature() {
