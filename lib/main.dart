@@ -54,6 +54,12 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
+  @override
+  void initState() {
+    print('starts now');
+    super.initState();
+  }
+
   void _incrementCounter() {
     setState(() {
       print("NOOOO !!!!");
