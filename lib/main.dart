@@ -70,6 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void newFeature() {
     print("here is a new feature");
+    print("hmmm 2eme modif");
   }
 
   @override
